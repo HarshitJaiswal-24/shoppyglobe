@@ -32,7 +32,7 @@ const Header = () => {
 
           {/* GitHub Button */}
           <a
-            href="https://github.com/HarshitJasiwal/ShoppyGlobe"
+            href="https://github.com/HarshitJaiswal-24/shoppyglobe"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-white text-cyan-900 px-3 py-1.5 rounded-full font-semibold text-sm hover:bg-orange-300 hover:text-white transition duration-200 shadow-sm"
